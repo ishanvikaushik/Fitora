@@ -1,10 +1,5 @@
-Perfect. **Fitora** is a solid name — clean, brandable, and not cringe.
-Below is a **copy-paste ready `README.md`** written **purely in Markdown**.
-You can drop this directly into your GitHub repo without editing structure.
 
----
-
-```md
+```
 # 👗 Fitora  
 ### Smart Digital Wardrobe & Outfit Generator
 
