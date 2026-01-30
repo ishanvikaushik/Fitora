@@ -1,8 +1,3 @@
-Perfect. I’ll prepare a **clean, end-to-end, production-style README** for your **Digital Wardrobe & Outfit Generator** project, **inspired by the structure and depth** of the FaceofMind README — **but scoped correctly** so it doesn’t feel fake or over-engineered.
-
-I’ll assume the app name is a placeholder. You can rename it later (e.g. *Closetly* / *Wearwise*).
-
----
 
 # 👗 Fitora
 
